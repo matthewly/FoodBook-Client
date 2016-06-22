@@ -1,19 +1,18 @@
-# Starter files for MP4
+#FoodBook
+Foodbook is a NodeJS web application that serves as a platform for people to host or join community food events. Simply sign up and start creating or RSVPing to food events!
 
-## Setup
-Use the following commands in your vagrant development environment to get this up and running
-```
-git clone https://github.com/uiuc-web-programming/mp4_client_starter.git
-cd mp4_client_starter
-npm install
-bower install
-grunt compass
-grunt uglify
-grunt
-```
+URL: --
 
-You can leave this command running in the background while development for livereloading:
+##Screenshots
+_Signup page_
+![alt tag](https://github.com/matthewly/FoodBook-Client/blob/master/home.png)
 
-```bash
-grunt
-```
+_Event List page_
+
+![alt tag](https://github.com/matthewly/FoodBook-Client/blob/master/events.png)
+
+_Profile page_
+![alt tag](https://github.com/matthewly/FoodBook-Client/blob/master/profile.png)
+
+_User List page_
+![alt tag](https://github.com/matthewly/FoodBook-Client/blob/master/users.png)
